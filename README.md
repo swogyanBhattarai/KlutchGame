@@ -18,6 +18,9 @@ A fast-paced **2D top-down racing game** built from scratch using **[Raylib](htt
 <div align="center">
   <img src="screenshots/screenshot1.png" alt="Gameplay Screenshot 1" width="400"/>
   <img src="screenshots/screenshot2.png" alt="Gameplay Screenshot 2" width="400"/>
+  <br><br>
+  <img src="screenshots/screenshot3.png" alt="Gameplay Screenshot 2" width="400"/>
+  <img src="screenshots/screenshot4.png" alt="Gameplay Screenshot 2" width="400"/>
 </div>
 
 _Add more screenshots as you update your game!_  
