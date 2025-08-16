@@ -36,7 +36,7 @@ A fast-paced **2D top-down racing game** built from scratch using **[Raylib](htt
 
 ## 🎨 Game Assets
 
-- All sprites, music, and sounds are included in the `assets` folder.  
+- All sprites, music, and sounds are included in the `Music` and `Sprites` folder.  
 - You can replace them with your own custom assets if desired.  
 
 ---
