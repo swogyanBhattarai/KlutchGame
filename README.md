@@ -1,6 +1,6 @@
 # 🏎️ Klutch: Top-Down Racing Game
 
-A fast-paced **2D top-down racing game** built from scratch using **[Raylib](https://www.raylib.com/)** Test your reflexes, survive as long as possible, and challenge yourself with your high scores.  
+A fast-paced **2D top-down racing game** built from scratch using **[Raylib](https://www.raylib.com/)**. Test your reflexes, survive as long as possible, and challenge yourself with your high scores.  
 
 ---
 
