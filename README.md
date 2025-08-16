@@ -1,6 +1,6 @@
-# 🏎️ Top-Down Racing Game
+# 🏎️ Klutch - Top-Down Racing Game
 
-A fast-paced **2D top-down racing game** built from scratch using **[Raylib](https://www.raylib.com/)**—no full game engine involved! Test your reflexes, survive as long as possible, and climb the leaderboard with your high scores.  
+A fast-paced **2D top-down racing game** built from scratch using **[Raylib](https://www.raylib.com/)** Test your reflexes, survive as long as possible, and challenge yourself with your high scores.  
 
 ---
 
@@ -42,9 +42,7 @@ _Add more screenshots as you update your game!_
 ## 📈 Future Improvements
 
 - Add power-ups and bonuses.  
-- Introduce multiple tracks and themes.  
-- Implement a leaderboard system.  
-- Add more enemy types with different behaviors.  
+- Add more car types with different behaviors.  
 
 ---
 
@@ -55,25 +53,9 @@ _Add more screenshots as you update your game!_
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:  
-
-- Submit bug reports  
-- Suggest features  
-- Fork the repository and create pull requests  
-
----
-
 ## 📄 License
 
 This project is **MIT Licensed**. See the [LICENSE](LICENSE) file for details.  
-
----
-
-## 🎵 Music & Sound Credits
-
-List your music and sound sources here if you’re using external assets.  
 
 ---
 
